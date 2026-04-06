@@ -7,7 +7,7 @@ public class Sort {
 
         System.out.println("Enter the number of strings:");
         int n = sc.nextInt();
-        sc.nextLine(); // consume leftover newline
+        sc.nextLine();
 
         String[] strings = new String[n];
 
